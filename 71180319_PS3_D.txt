@@ -1,0 +1,18 @@
+Pseudocde:
+Start
+Input A
+B ← A
+While A>1 do
+	A ← A – 1
+	B ← B * A
+While end
+Output B
+End
+
+Penjelasan:
+1. Menginputkan bilangan yang akan difaktorialkan ke dalam variabel “A” 
+2. Menginputkan nilai variabel “A” ke dalam variabel “B”
+3. Nilai variabel “A” dikurangkan dengan bilangan 1
+4. Nilai Variabel “B” sama dengan nilai variabel “B” dikalikan dengan Nilai variabel “A”
+5. Jika A>1, kembali ke langkah 4 Jika tidak terus ke langkah 7
+6. Cetak Nilai Variabel B
