@@ -1,0 +1,7 @@
+gelas yang lebih dahulu penuh adalah gelas nomer 2, karena jika airnya dituangkan maka 
+pipa yang mengarah ke gelas nomer 1, 2, dan 3 akan terisi air dan airnya akan mengalir 
+dahulu di pipa tersebut dan akan mengarah ke kotak pembagian dan waktu airnya masuk 
+ke kotak pembagian maka gelas nomer 2 yang akan penuh terlebiih dahulu penuh karena 
+pipa air yang mengarah ke gelas nomer 2 berada lurus di dasar kotak pembagian jadi 
+otomatis air akan langsung masuk ke gelas nomer 2 sehingga gelas nomer 2 yang akan 
+terlebih dahulu penuh.
